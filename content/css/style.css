@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+	background: url(../images/SSBU-Logo-2000x1077.png);
+	text-align: center;
+}
+
+#container {
+	padding: 5% 0;
+    width:600px;
+    margin: 75px auto;
+    
+    background: url(../images/538560_1.jpg);
+}
+
+#subcontainer {
+	position: relative;
+	top: 20%;
+}
+
+#subcontainer h2 {
+	font-family: 'impact', cursive;
+	font-size: 30px;
+	color: rgb(57, 119, 5);
+
+}
+
+#subcontainer h3 {
+	font-family: 'impact', cursive;
+	color: rgb(241, 84, 11);
+	font-size: 30px;
+}
+
+h1 {
+	font-family: 'impact', cursive;
+	font-size: 75px;
+	font-weight: bold;
+	color: rgb(6, 25, 88);
+	padding: 10px 0px 10px 0px;
+	margin: 0px 0px 50px 0px;
+}
+
+button {
+	font-family: 'impact', cursive;
+    display: block;
+    width: 200px;
+    height: 80px;
+    margin: 80px auto 0 auto;
+    cursor: pointer;
+    background: tan;
+    font-size: 45px;;
+    color: mediumseagreen;
+}
+
+h2 {
+	font-size: 50px;
+	margin-bottom: 35px
+}
+
+h3 {
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+
+#start {
+	margin-top: 10%;
+	border: 2px solid black;
+	background: rgb(114, 76, 5);
+}
+
+#done {
+	margin-top: 10%;
+	border: 2px solid black;
+	background: rgb(114, 76, 5);
+}
+
+#play-area h2 {
+	margin-top: 50px;
+}
